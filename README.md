@@ -1,4 +1,3 @@
-```markdown
 # 💻 SQL_TERMINAL
 
 **SQL_TERMINAL** is a "plug-and-play" AI Data Analyst that connects to any PostgreSQL/Supabase database. It transforms natural language questions into safe, executable SQL queries, provides an interactive workbench for editing, and automatically generates intelligent visualizations—all wrapped in a retro hacker-terminal interface.
