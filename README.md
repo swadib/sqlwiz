@@ -26,8 +26,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/swadib/fintech_dashboard.git](https://github.com/swadib/fintech_dashboard.git)
-cd fintech_dashboard
+git clone https://github.com/swadib/sqlwiz.git
+cd sqlwiz
 
 ```
 
